@@ -10,11 +10,11 @@
   "homepage": "https://github.com/pingidentity/pingone-customers-sample-oidc",
   "devDependencies": {
     "ecstatic": "^3.3.2",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "jsdoc": "^3.6.3"
   },
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   },
   "scripts": {
     "start": "node_modules/http-server/bin/http-server"
